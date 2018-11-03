@@ -2,7 +2,7 @@
 bash script searches a given path and determines if .lnk files with remote IconLocation are present and print them to std out
 
 author: @b00010111<br>
-Inspired by https://www.us-cert.gov/ncas/alerts/TA20-074A and the usage of remote IconLocation within windows shortcut files.<br>
+Inspired by https://www.us-cert.gov/ncas/alerts/TA18-074A and the usage of remote IconLocation within windows shortcut files.<br>
 exiftool needs to be installed, as it is needed to parase out the metadata from the .lnk files.<br>
 To install exiftool running "sudo apt install libimage-exiftool-perl" should work on most linux systems please note, an amtomated install of exiftool is not part of this script.<br>
 USAGE:
