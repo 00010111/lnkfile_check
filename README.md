@@ -27,9 +27,9 @@ lnkfile_check.sh -p /mnt/ntfs/vol1/
 * check the mounted drive at /mnt/ntfs/vol1/
 * only check files with .lnk file extentions
 * show standard output:
-** possible remote ICON found
-** File: /mnt/ntfs/vol1/TEST.lnk
-** Icon Path: //172.1.1.1/remoteIcon
+* possible remote ICON found
+* File: /mnt/ntfs/vol1/TEST.lnk
+* Icon Path: //172.1.1.1/remoteIcon
 
 lnkfile_check.sh -h
 * show usage
